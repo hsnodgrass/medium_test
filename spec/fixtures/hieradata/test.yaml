@@ -1,0 +1,4 @@
+# spec/fixtures/hieradata/test.yaml
+---
+function_param_1: 'https://our.supercool.webservice/api/'
+function_param_2: our_api_token
